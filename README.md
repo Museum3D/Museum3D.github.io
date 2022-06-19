@@ -1,4 +1,3 @@
-# ECR-CfACS.github.io
-2nd Annual ECR and PhD CfACS Conference.
+# Digitisation of museum artefacts 
 Template by Bootstrap.
 Developed by Dr John Henry.
